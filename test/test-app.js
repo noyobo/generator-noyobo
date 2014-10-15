@@ -21,11 +21,17 @@ describe('noyobo:app', function () {
     assert.file([
       // 'bower.json',
       // 'package.json',
+      'test/test.js',
       '.editorconfig',
       '.jshintrc',
       '.gitignore',
       '.travis.yml',
       'gulpfile.js'
     ]);
+  });
+  it('creates folder', function() {
+    assert.file([
+        'test'
+      ])
   });
 });

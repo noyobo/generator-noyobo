@@ -4,6 +4,7 @@
   "description": "项目快速创建系统",
   "license": "MIT",
   "main": "app/index.js",
+  "preferGlobal": true,
   "repository": "noyobo/generator-noyobo",
   "author": {
     "name": "大宝",
