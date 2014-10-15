@@ -16,15 +16,9 @@ $ npm install -g yo
 ```
 
 ```bash
-# npm install -g generator-noyobo
+$ npm install -g generator-noyobo
 ```
 
 ```bash
 $ yo noyobo  // 创建基础文件
-
 ```
-
-
-## License
-
-MIT
