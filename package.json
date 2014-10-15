@@ -1,7 +1,7 @@
 {
   "name": "generator-noyobo",
   "version": "0.0.0",
-  "description": "Yeoman generator",
+  "description": "项目快速创建系统",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "noyobo/generator-noyobo",

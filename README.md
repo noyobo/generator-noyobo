@@ -1,4 +1,4 @@
-# generator-noyobo [![Build Status](https://secure.travis-ci.org/noyobo/generator-noyobo.png?branch=master)](https://travis-ci.org/noyobo/generator-noyobo)
+# generator-noyobo 
 
 > [Yeoman](http://yeoman.io) generator
 
@@ -12,15 +12,16 @@
 ## Getting Started
 
 ```bash
-npm install -g yo
+$ npm install -g yo
 ```
 
 ```bash
-npm install -g generator-noyobo
+# npm install -g generator-noyobo
 ```
 
 ```bash
-yo noyobo  // 创建基础文件
+$ yo noyobo  // 创建基础文件
+
 ```
 
 
