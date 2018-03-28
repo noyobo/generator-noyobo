@@ -1,5 +1,7 @@
 # generator-noyobo 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/noyobo/generator-noyobo.svg)](https://greenkeeper.io/)
+
 > [Yeoman](http://yeoman.io) generator
 
 [![Build Status](https://secure.travis-ci.org/noyobo/generator-noyobo.png?branch=master)](https://travis-ci.org/noyobo/generator-noyobo)
